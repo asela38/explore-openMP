@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+*.zip
+*.tar
+
+colfax-access-key-28297.dms
